@@ -1,0 +1,52 @@
+#iFrm_Main{
+width:90%;
+height:85%;
+margin-left:5%;
+}
+#tbl_DiesetMain{
+font-size:10px;
+}
+
+/*Tables*/
+#tbl_DiesetMain {
+font-size:12px;
+}
+
+#tbl_DiesetMain thead tr th:nth-child(1){
+width:8%;
+}
+#tbl_DiesetMain thead tr th:nth-child(2){
+width:4%;
+}
+#tbl_DiesetMain thead tr th:nth-child(3){
+width:15%;
+}
+#tbl_DiesetMain thead tr th:nth-child(4){
+width:10%;
+}
+#tbl_DiesetMain thead tr th:nth-child(5){
+width:3%;
+}
+#tbl_DiesetMain thead tr th:nth-child(6){
+width:15%;
+}
+#tbl_DiesetMain thead tr th:nth-child(7){
+width:18%;
+}
+
+#tbl_DiesetMain tbody tr td{
+font-size:16px;
+}
+
+/*Labels*/
+#label_dblClickNote{
+float:right;
+border: 2px solid;
+padding:.5%;
+color:red;
+}
+
+/*Textfields*/
+#SearchItem{
+width:325px;
+}

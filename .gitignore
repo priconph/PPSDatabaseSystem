@@ -1,0 +1,42 @@
+# Spreadsheets
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xlt
+*.xltx
+*.csv
+
+# Documents
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.vsd
+*.vsdx
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Backups, logs, temp
+*.bak
+*.log
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
+
+# Databases / dumps
+*.sql
+*.mdb
+*.accdb
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
